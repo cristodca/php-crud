@@ -1,0 +1,1 @@
+ErrorDocument 404 http://localhost/crud_global/404.php
